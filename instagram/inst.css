@@ -1,0 +1,162 @@
+.menu li
+{
+    display: inline-block;
+    padding-left: 1.5em;
+    font-size: 12px;
+    right: 10px;
+    padding-top: 100px;
+}
+
+.menu 
+{
+
+    list-style: none; /*убираем маркеры списка*/
+    margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+    padding-left: 0; /*убираем левый отступ, равный 40px*/
+    
+}
+body{
+    background-color: #fafafa;
+}
+.menu a 
+{
+    text-decoration: none; 
+    color: #164283;
+    
+    
+}
+
+footer{
+    margin-left: 200px;
+}
+  
+.copy
+{
+    padding-left: 1em;
+    color: #888888;
+    font-size: 12px;
+}
+body
+{
+    width: 100%;
+}
+.content
+{
+    width: 100%;
+}
+
+.inst_img
+{
+    display: inline-block;
+   
+}
+#image
+{
+    width:350px;
+    left: 200px;
+    height: 450px;
+    margin: 10px;
+    margin-left: 200px;
+}
+.in
+{
+    position: relative;
+    top: 0;
+    display: inline-block;
+    border: 0.5px solid #c8c8c8;
+    background-color: white;
+    padding:10px;
+    top: 55px;
+    width: 380px;
+}
+
+.registation_form
+{
+    display: inline-block;
+    vertical-align: top;
+    width: 400px;
+    background-color: white;
+    border: 0.5px solid #c8c8c8;
+    height: 500px;
+    margin-bottom:15px;
+    text-align: center;
+}
+.inst_about{
+   
+   
+}
+.registation_form form
+{
+    width: 30px;
+    align-content: center;
+    height: 50%;
+}
+.registation_form input
+{
+    display: block;
+    margin-left: 1.5em;
+    margin-right: 1em;
+    width: 350px;
+    position: center;
+
+}
+#facebook{
+    background-color:#0088F0;
+    background-clip: border-box;
+    border-radius: 5%;
+    border: solid rgb(56, 151, 240);
+    color: seashell;
+    font-size: 20px;
+    margin:20px;
+    align-items: center;
+    right: 30px;
+    display: block;
+    margin-left: 1.5em;
+    margin-right: 1em;
+    width: 350px;
+    position: center;
+}
+.data{
+    margin: 13px;
+    padding: 10px;
+    position: center;
+    background-color:#fafafa;
+    border: 0;
+    
+}
+#reg_btn
+{
+    background-color:rgb(56, 151, 240);
+    background-clip: border-box;
+    border-radius: 5%;
+    border: solid rgb(56, 151, 240);
+    color: seashell;
+    font-size: 20px;
+    margin:20px;
+}
+.header_inst
+{
+    align-content: center;
+}
+.inst_name
+{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-size: 3em;
+}
+
+.inst_about
+{
+    text-align: center;
+    font-family: inherit;
+    font-weight: 900;
+    color: #a0a0a0;
+}
+
+.inst_license
+{
+    text-align: center;
+    font-family: inherit;
+    font-weight: 900;
+    color: #a0a0a0;
+}

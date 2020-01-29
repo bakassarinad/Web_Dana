@@ -1,0 +1,86 @@
+.foot
+{
+    display: inline-block;
+    padding-left: 20em;
+    font-size: 20px;
+    right: 470px;
+    padding-top: 400px;
+    
+}
+#welcome
+{
+    position: relative;
+}
+#nav
+{
+    display: inline-block;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 42%;
+}
+header{
+   width: 100%;
+   height: 200px;
+   background-color: #5583a4;
+   display: block;
+}
+.inhead .ref{
+    position: absolute;
+    left:35%;
+    top: 150px;
+    color: white;
+    font-family: serif,Arial,Helvetica;
+    font-weight: normal;
+    text-decoration: none;
+}
+#im{
+    width: 15px;
+    margin: 5px;
+    position: relative;
+    top: 6.7px;
+}
+.group{
+    display: inline-block;
+    
+}
+.data{
+ vertical-align: top;
+ width: 200px;
+ margin: 10px;
+}
+.content
+{
+    border: 0.5px solid gray;
+    width: 350px;
+    margin-left: 37%;
+
+    left: 350px;
+    bottom: 100px;
+    
+}
+#code{
+    width: 30px;
+    display: table-item;
+
+}
+.sign
+{
+    font-weight: bold;
+    margin: 5px;
+}
+#reg_btn
+{
+    width: 40px;
+    margin: 155px;
+    position: absolute;
+    top: 1px;   
+    left: 50%;
+    border: none;
+    background-color: #5583a4;
+    color: white;
+    font-family: serif,Arial,Helvetica;
+    font-weight: bold;
+    text-decoration: none;
+}
+
